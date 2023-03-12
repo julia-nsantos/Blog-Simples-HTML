@@ -1,15 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Racing+Sans+One&family=Raleway:wght@300&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Racing+Sans+One&family=Raleway:wght@300&display=swap');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: #000000;
 }
 body{
     font-family: 'Raleway', sans-serif;
-    background-color: #f2f2f2;
+    background-image: url("/assets/img/Animes.png");
+    
 }
 .centraliza-container{
     margin: auto;
+    background-color: rgb(255, 255, 255) ;
+    
 }
 div{
     width: 85%;
@@ -22,21 +26,24 @@ header{
 }
 header ul{
     margin-top: 1.5em;
+
 }
 header li{
     list-style-type: none;
     display: inline-block;
-    font-family: 'Rancing Sans One';
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 2rem;
     margin-right: 2em;
+
 }
 header li:last-child{margin-right: 0;}
 
 header a{
     text-decoration: none; 
-    color:gold;
+    color: rgb(241, 151, 48);
     padding: 8.em;
-    
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color:#000000; 
 
 }
 main{
@@ -61,7 +68,7 @@ h2{
     font-size: 4.5rem;
     margin-bottom: .72em ;
     font-family: "Racing Sans one";
-    color:gold;
+    color:orange;
 }
 hr {
     width: 85%;
@@ -77,5 +84,14 @@ hr {
 .texto-direita{
     text-align: right;
 
-
 }
+
+.teste {
+    background-image: url("/assets/img/anime-crossover-wallpaper-preview.jpg");
+    /* -webkit-filter: blur(2px); */
+    opacity: 0.5;
+}  
+
+
+
+
