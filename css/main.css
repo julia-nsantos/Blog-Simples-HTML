@@ -89,7 +89,7 @@ hr {
 .teste {
     background-image: url("/assets/img/anime-crossover-wallpaper-preview.jpg");
     /* -webkit-filter: blur(2px); */
-    opacity: 0.5;
+    /* opacity: 0.5; */
 }  
 
 
