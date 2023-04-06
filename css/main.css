@@ -7,20 +7,20 @@
 }
 body{
     font-family: 'Raleway', sans-serif;
-    background-image: url("/assets/img/Animes.png");
+    background-image: url("../assets/img/Animes.png");
+    
     
 }
 
 .centraliza-container{
     margin: auto;
     background-color: rgb(255, 255, 255) ;
-    
 }
 div{
     width: 85%;
-    background-color: #fff;
     padding: 3em;
-    box-shadow: 0 0 2.2em rgba(0, 0, 0, .2);
+    /* box-shadow: 0 0 2.2em rgba(0, 0, 0, .2); */
+    
 }
 header{
     text-align: center;
@@ -41,12 +41,17 @@ header li:last-child{margin-right: 0;}
 
 header a{
     text-decoration: none; 
-    color: rgb(241, 151, 48);
+    color:orange;
     padding: 8.em;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color:#000000; 
+    -webkit-text-stroke-color:#6e6a60; 
 
 }
+a:hover {
+    color: rgb(255, 68, 0);
+    text-decoration: none;
+  }
+
 main{
     margin-top: 4em;
 }
@@ -87,10 +92,23 @@ hr {
 
 }
 
-.teste {
-    background-image: url("/assets/img/anime-crossover-wallpaper-preview.png");
+.back-opac {
+    position: relative;
+    overflow: hidden;
 }
 
-
+.anime-bg {
+    opacity: 0.8;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+  }
+  
+.header-content {
+    position: relative;
+    margin-left: 7%;
+}
 
 
