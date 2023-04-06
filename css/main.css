@@ -10,6 +10,7 @@ body{
     background-image: url("/assets/img/Animes.png");
     
 }
+
 .centraliza-container{
     margin: auto;
     background-color: rgb(255, 255, 255) ;
@@ -87,10 +88,8 @@ hr {
 }
 
 .teste {
-    background-image: url("/assets/img/anime-crossover-wallpaper-preview.jpg");
-    /* -webkit-filter: blur(2px); */
-    /* opacity: 0.5; */
-}  
+    background-image: url("/assets/img/anime-crossover-wallpaper-preview.png");
+}
 
 
 
