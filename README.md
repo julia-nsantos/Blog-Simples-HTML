@@ -6,7 +6,7 @@
 ### 🚧 O Blog está em desenvolvimento 
 <hr>
 
-## 📕 About
+## 📕 Sobre
 Buscando aprimorar meus conhecimentos em programação web e compartilhar minha paixão por animes com outras pessoas, desenvolvi um blog simples em HTML e CSS que apresenta uma pequena seleção de animes, cada um com uma foto, uma breve descrição e a primeira Opening. Neste blog, você encontrará alguns dos meus  animes favoritos, além de informações sobre cada um deles e sua trilha sonora inesquecível. Com um layout intuitivo e fácil de navegar, o blog foi desenvolvido com as melhores práticas de HTML e CSS para garantir uma experiência de usuário agradável. Espero que você se divirta explorando este mundo incrível de animes e possa descobrir alguns novos para assistir!
 <hr>
 
