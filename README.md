@@ -1,5 +1,5 @@
-<h1 aling="center">
-    <img width="80%" src="./assets/img/logo.png" >
+<h1 align="center">
+    <img width="30%" src="./assets/img/logo.png" >
     <p>Blog de Animes</p>
 </h1>
 
