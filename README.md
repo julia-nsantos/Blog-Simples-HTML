@@ -15,16 +15,3 @@ Buscando aprimorar meus conhecimentos em programação web e compartilhar minha 
 - HTML
 - CSS
 
-<hr>
-
-## ♻️ Como contribuir
-
-```bash
-    #Clone o projeto
-    $ cd Blog-Simples-HTML
-```
-```bash
-    #Não será necessário instalar dependencias
-```
-
-
